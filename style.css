@@ -1,0 +1,88 @@
+/* Code for CSS styling should go here (Checkpoints 3 and 4) */
+/* #section1 {
+  background-color: rgb(112, 62, 101);
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+
+}
+#navbar-link {
+  text-decoration: none;
+  color: black;
+}
+
+#letter-red {
+  color: rgb(151, 51, 51);
+}
+
+#title {
+  margin-right: 25px;
+}
+h1 {
+  text-align: center;
+}
+
+#section1 {
+  border: 1px solid white;
+  border-radius: 1px;
+  color: black;
+  background: white;
+  font-size: 1.5em;
+  text-align: center;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif; /* Overwrites Bootstrap Default Font */
+}
+
+#MainMenu {
+  margin-right: 1%;
+  text-align: left;
+}
+#GAMES {
+  margin-right: 1%;
+
+}
+#COMMUNITY {
+  margin-right: 1%;
+
+}
+#UPDATES {
+  margin-right: 1%;
+
+}
+#NEWS {
+  margin-right: 1%;
+}
+#DEVELOPERS {
+  margin-right: 1%;
+}
+#GamePage {
+  text-align: center;
+}
+#quotes {
+  font-style: italic;
+}
+#thegoofyben {
+  text-decoration: none;
+}
+/* span {
+  color: white;
+  font-weight: bold;
+
+}
+#red-text {
+  color:red;
+} */
+
+.container {
+
+}
+
+/*.row {
+  border: 1px solid red;
+} */
+
